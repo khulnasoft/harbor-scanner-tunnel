@@ -1,6 +1,7 @@
 .idea/
 .vscode/
 
+scanner-tunnel
 dist/
 
 coverage.txt
